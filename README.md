@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kwang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kwang" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/đinh việt quang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="đinh việt quang" height="30" width="40" /></a>
+<a href="https://twitter.com/home?lang=vi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kwang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/việt-quang-đinh-886886242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="đinh việt quang" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17125917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17125917" height="30" width="40" /></a>
-<a href="https://fb.com/đinh việt quang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đinh việt quang" height="30" width="40" /></a>
+<a href="https://fb.com/hikarihahaha161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đinh việt quang" height="30" width="40" /></a>
 <a href="https://instagram.com/_vtqng_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vtqng_" height="30" width="40" /></a>
 </p>
 
