@@ -7,13 +7,15 @@
 
 - 🔭 I’m currently a freshman with **Information Technology major at Hanoi University of Science and Technology**
 
-- 💬 Ask me about **university life experiences :>**
+- 💬 Ask me about: **university life experiences :>**
 
 - 📫 How to reach me **vietquang16012003@gmail.com**
 
-- ⚡ Fun fact **I was born in 2003, with horoscope sign Capricorn.** 
+- ⚡ Fun fact:
 
--  In addition to my interest in **programming**, I also have a strong passion for **manga and anime.**
+-  I was born in 2003, with horoscope sign Capricorn
+
+-  In addition to my interest in **programming**, I also have a strong passion for **manga and anime :)** and **travelling overseas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
