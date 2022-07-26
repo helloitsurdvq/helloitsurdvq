@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hikarihahaha&label=Profile%20views&color=0e75b6&style=flat" alt="hikarihahaha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/home?lang=vi" target="blank"><img src="https://img.shields.io/twitter/follow/kwang?logo=twitter&style=for-the-badge" alt="kwang" /></a> </p>
-
 - 🔭 I’m currently a freshman with **Information Technology major at Hanoi University of Science and Technology**
 
 - 💬 Ask me about: **university life experiences :>**
