@@ -13,7 +13,7 @@
 
   I was born in 2003, with horoscope sign Capricorn
 
-  In addition to my interest in **programming**, I also have a strong passion for **manga and anime :)** and **travelling overseas**
+  In addition to my interest in **programming**, I also have a strong passion for **manga and anime** and **travelling overseas** :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
