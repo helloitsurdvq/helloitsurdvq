@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **university life experiences :>**
 
-- 📫 How to reach me **vietquang16012003@gmail.com**
+- 📫 How to reach me: **vietquang16012003@gmail.com**
 
 - ⚡ Fun fact:
 
