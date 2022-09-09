@@ -5,7 +5,7 @@
 
 - 🔭 BSc in **Information Technology at Hanoi University of Science and Technology**
 
-- 🔭 Reasearch Assistant at **Intelligent Communication Networks Lab, International Research Center for Artificial Intelligence BKAI**
+- 🔭 Research Assistant at **Intelligent Communication Networks Lab, International Research Center for Artificial Intelligence BKAI**
 
 - 💬 Ask me about: **university life experiences :>**
 
