@@ -4,13 +4,16 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hikarihahaha&label=Profile%20views&color=0e75b6&style=flat" alt="hikarihahaha" /> </p>
 
+- 👀 I'm from VietNam
+
 - 🔭 BSc in **Information Technology** at [Hanoi University of Science and Technology](https://www.facebook.com/dhbkhanoi/)
 
 - 🔭 Research Assistant at [Intelligent Communication Networks Lab](https://bkai.ai/research/intelligent-communication-networks/), [International Research Center for Artificial Intelligence BKAI](https://bkai.ai)
 
-- 💬 Ask me about: **university life experiences :>**
-
-- 📫 How to reach me: **vietquang16012003@gmail.com**
+- ❤️ I'm passionate about:
+    + 🔐 Machine Learning
+    + 🪐 Computer Networks
+    + 🌱 Learning Japanese
 
 <h3 align="left">🌐 Socials</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -29,7 +32,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <span>[<img src="https://github-readme-stats.vercel.app/api?username=hikarihahaha&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=hikarihahaha)</span>
-
 <span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikarihahaha&layout=compact&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=hikarihahaha)</span>
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=hikarihahaha">
