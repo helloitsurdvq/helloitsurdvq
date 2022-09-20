@@ -35,7 +35,7 @@
 <span>[<img src="https://github-readme-stats.vercel.app/api?username=hikarihahaha&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=hikarihahaha)</span>
 <span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikarihahaha&layout=compact&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=hikarihahaha)</span>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=hikarihahaha">
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=hikarihahaha&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&background=000004">
+<a href="http://github-readme-streak-stats.herokuapp.com?user=hikarihahaha">
+<img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=hikarihahaha&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&background=000004">
 
 
