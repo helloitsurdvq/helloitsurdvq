@@ -10,7 +10,7 @@
 - 🔭 Research Assistant at [Intelligent Communication Networks Lab](https://bkai.ai/research/intelligent-communication-networks/), [International Research Center for Artificial Intelligence BKAI](https://bkai.ai)
 
 - ❤️ I'm passionate about:
-    + 🔐 Machine Learning
+    + 🔐 Machine Learning / Neural Networks
     + 🪐 Communication Networks and Internet of Things
     + 🌱 Learning Japanese
 
