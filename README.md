@@ -1,9 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/7ed1f8d0f85e2fc1ffa1872a82d328ebebdc1e5f4f1d142b718d7481ed7af6fb/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f34666630373938363230383539332e356439613635346539326633362e676966)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hi there 👋, I'm Dinh Viet Quang</h1>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-- 👀 I'm from Ha Noi, Viet Nam
+<h1 align="center">Hi there 👋, I'm Dinh Viet Quang</h1>
+
+
+- 👀 I'm from Hanoi, Vietnam
 
 - 🔭 BSc in **Information Technology** at [Hanoi University of Science and Technology](https://www.facebook.com/dhbkhanoi/)
 
