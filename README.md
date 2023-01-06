@@ -4,7 +4,7 @@
 
 - 👀 I'm from Hanoi, Vietnam
 
-- 🔭 BSc in **Information Technology** at [Hanoi University of Science and Technology](https://www.facebook.com/dhbkhanoi/)
+- 🔭 BSc in **Global ICT** at [Hanoi University of Science and Technology](https://www.facebook.com/dhbkhanoi/)
 
 - 🔭 Research Assistant at [Intelligent Communication Networks Lab](https://bkai.ai/research/intelligent-communication-networks/), [International Research Center for Artificial Intelligence BKAI](https://bkai.ai)
 
