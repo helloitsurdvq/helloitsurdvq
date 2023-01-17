@@ -54,13 +54,14 @@
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 
-<!-- <span>[<img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=helloitsurdvq)</span>
-<span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsurdvq&layout=compact&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsurdvq)</span> -->
+<!-- <span>[<img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=helloitsurdvq)</span> -->
+<span>[<img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula)</span>
 <!--<a href="https://github-readme-stats.vercel.app/api?username=helloitsurdvq">
     <img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&theme=dracula"/>
 </a>-->
 <a href="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq">
 <img width="490" src="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&background=000004">
+<!-- [![koalalikecode's GitHub stats](https://github-readme-stats.vercel.app/api?username=koalalikecode&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <br>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq&theme=dracula"/>
