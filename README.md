@@ -55,7 +55,7 @@
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 
 <!-- <span>[<img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=helloitsurdvq)</span> -->
-<span>[<img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula)</span>
+<!-- <span>[<img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula)</span> -->
 <!--<a href="https://github-readme-stats.vercel.app/api?username=helloitsurdvq">
     <img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&theme=dracula"/>
 </a>-->
