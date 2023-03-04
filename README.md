@@ -52,7 +52,7 @@
 <!-- <span>[<img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula)</span> -->
 [![helloitsurdvq's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <a href="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq">
-<img width="490" src="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&background=000004">
+<img width="490" src="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical">
 <!-- [![koalalikecode's GitHub stats](https://github-readme-stats.vercel.app/api?username=koalalikecode&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <br>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq">
