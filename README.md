@@ -50,18 +50,16 @@
 
 <!-- <span>[<img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=helloitsurdvq)</span> -->
 <!-- <span>[<img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=dracula)</span> -->
-<!--<a href="https://github-readme-stats.vercel.app/api?username=helloitsurdvq">
-    <img src="https://github-readme-stats.vercel.app/api?username=helloitsurdvq&theme=dracula"/>
-</a>-->
+[![helloitsurdvq's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <a href="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq">
 <img width="490" src="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&background=000004">
 <!-- [![koalalikecode's GitHub stats](https://github-readme-stats.vercel.app/api?username=koalalikecode&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <br>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq&theme=radical"/>
 </a>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helloitsurdvq&">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helloitsurdvq&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helloitsurdvq&theme=radical"/>
 </a>
 <!-- <br> -->
 <!--<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsurdvq&theme=dracula">
