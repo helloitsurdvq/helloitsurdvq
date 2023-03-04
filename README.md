@@ -48,9 +48,9 @@
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My GitHub Stats
 
-[![helloitsurdvq's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![helloitsurdvq's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&text_color=90cbf8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <a href="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq">
-<img width="490" src="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq&title_color=fff&text_color=fff&theme=radical">
+<img width="490" src="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq&title_color=fff&text_color=90cbf8&theme=radical">
 <!-- <br> -->
 <!-- <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq&theme=radical"/>
@@ -58,4 +58,4 @@
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helloitsurdvq&">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helloitsurdvq&theme=radical"/>
 </a> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsurdvq&layout=compact&show_icons=true&title_color=fff&text_color=fff&theme=radical)](https://github.com/helloitsurdvq/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsurdvq&layout=compact&show_icons=true&title_color=ff42ba&text_color=90cbf8&theme=radical)](https://github.com/helloitsurdvq/github-readme-stats)
