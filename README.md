@@ -51,7 +51,7 @@
 [![helloitsurdvq's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <a href="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq">
 <img width="490" src="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq&title_color=fff&text_color=fff&theme=radical">
-<br>
+<!-- <br> -->
 <!-- <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq&theme=radical"/>
 </a>
