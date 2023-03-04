@@ -52,13 +52,10 @@
 <a href="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq">
 <img width="490" src="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical">
 <br>
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq">
+<!-- <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq&theme=radical"/>
 </a>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helloitsurdvq&">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helloitsurdvq&theme=radical"/>
-</a>
-<!-- <br> -->
-<!--<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsurdvq&theme=dracula">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsurdvq&theme=dracula"/>
-</a>-->
+</a> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsurdvq&layout=compact&title_color=fff&text_color=fff&theme=radical)](https://github.com/helloitsurdvq/github-readme-stats)
