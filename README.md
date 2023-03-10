@@ -52,7 +52,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsurdvq&layout=compact&show_icons=true&title_color=ff42ba&text_color=90cbf8&theme=radical)](https://github.com/helloitsurdvq/github-readme-stats)
 <a href="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq">
 <img width="490" src="http://github-readme-streak-stats.herokuapp.com?user=helloitsurdvq&title_color=fff&text_color=90cbf8&theme=radical">
-<!-- <br> -->
 <!-- <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helloitsurdvq&theme=radical"/>
 </a>
