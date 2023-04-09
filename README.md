@@ -8,10 +8,10 @@
 
 <!-- - 🔭 Research Assistant at [Intelligent Communication Networks Lab](https://bkai.ai/research/intelligent-communication-networks/), [International Research Center for Artificial Intelligence BKAI](https://bkai.ai) -->
 
-- ❤️ I'm passionate about:
-    + 🔐 Data Science
-    + 🪐 Communication Networks
-<!--     + 🌱 Learning Japanese -->
+- ❤️ Currently learning about: Data Science and Communication Networks
+<!--     + 🔐 
+    + 🪐 
+    + 🌱 Learning Japanese -->
 
 - <s>I'm also a weaboo, a big fan of RomCom genre =))</s>
 
