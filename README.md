@@ -6,12 +6,12 @@
 
 - 🔭 BSc in **Global ICT** at [Hanoi University of Science and Technology](https://www.facebook.com/dhbkhanoi/)
 
-- 🔭 Research Assistant at [Intelligent Communication Networks Lab](https://bkai.ai/research/intelligent-communication-networks/), [International Research Center for Artificial Intelligence BKAI](https://bkai.ai)
+<!-- - 🔭 Research Assistant at [Intelligent Communication Networks Lab](https://bkai.ai/research/intelligent-communication-networks/), [International Research Center for Artificial Intelligence BKAI](https://bkai.ai) -->
 
 - ❤️ I'm passionate about:
-    + 🔐 Machine Learning / Neural Networks
+    + 🔐 Data Science
     + 🪐 Communication Networks
-    + 🌱 Learning Japanese
+<!--     + 🌱 Learning Japanese -->
 
 - <s>I'm also a weaboo, a big fan of RomCom genre =))</s>
 
