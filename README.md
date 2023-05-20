@@ -30,7 +30,12 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">🛠 Languages and Tools</h3>
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My GitHub Stats
+
+[![helloitsurdvq's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=helloitsurdvq&show_icons=true&text_color=90cbf8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=helloitsurdvq&layout=compact&show_icons=true&title_color=ff42ba&text_color=90cbf8&theme=radical)](https://github.com/helloitsurdvq/github-readme-stats)
+<!-- <h3 align="left">🛠 Languages and Tools</h3>
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -44,12 +49,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My GitHub Stats
 
-[![helloitsurdvq's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=helloitsurdvq&show_icons=true&text_color=90cbf8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=helloitsurdvq&layout=compact&show_icons=true&title_color=ff42ba&text_color=90cbf8&theme=radical)](https://github.com/helloitsurdvq/github-readme-stats)
 <!-- [![GitHub Streak](https://streak-stats-sigma-five.demolab.com?user=helloitsurdvq&theme=radical)](https://git.io/streak-stats) -->
 
 <!--  -->
