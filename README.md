@@ -18,19 +18,19 @@
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
     <a href="https://github.com/helloitsurdvq" target="blank"><img align="center" src="https://img.shields.io/badge/-helloitsurdvq-1C1C1C?logo=github&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/việt-quang-đinh-886886242" target="blank"><img align="center" src="https://img.shields.io/badge/-Việt Quang Đinh-0077B5?logo=linkedin&logoColor=white" /></a>
+    <a href="www.linkedin.com/in/vietquang1601" target="blank"><img align="center" src="https://img.shields.io/badge/-Việt Quang Đinh-0077B5?logo=linkedin&logoColor=white" /></a>
     <a href="https://www.facebook.com/helloitsurdvq" target="blank"><img align="center" src="https://img.shields.io/badge/-Đinh Việt Quang-4267b2?logo=facebook&logoColor=white"/></a>
-    <a href="https://www.instagram.com/chilly.dvq/" target="blank"><img align="center" src="https://img.shields.io/badge/-chilly.dvq-F67A00?logo=instagram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/chilling.dvq/" target="blank"><img align="center" src="https://img.shields.io/badge/-chilling.dvq-F67A00?logo=instagram&logoColor=white" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My GitHub Stats
 
-<!-- [![helloitsurdvq's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=helloitsurdvq&show_icons=true&text_color=90cbf8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=radical"/>
-</div>
+[![Viet Quang's github stats](https://github-readme-stats.vercel.app/api?username=Helloitsurdvq&show_icons=true&show_icons=true&theme=radical&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/Helloitsurdvq)
+<!--<div style="display: flex; flex-direction: row;"> -->
+<!-- <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helloitsurdvq&show_icons=true&theme=radical"/> -->
+<!-- </div> -->
 <!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=helloitsurdvq&layout=compact&show_icons=true&title_color=ff42ba&text_color=90cbf8&theme=radical)](https://github.com/helloitsurdvq/github-readme-stats) -->
 <!-- <h3 align="left">🛠 Languages and Tools</h3>
 
