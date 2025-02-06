@@ -18,7 +18,7 @@
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
     <a href="https://github.com/helloitsurdvq" target="blank"><img align="center" src="https://img.shields.io/badge/-helloitsurdvq-1C1C1C?logo=github&logoColor=white"/></a>
-    <a href="www.linkedin.com/in/vietquang1601" target="blank"><img align="center" src="https://img.shields.io/badge/-Việt Quang Đinh-0077B5?logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/vietquang1601" target="blank"><img align="center" src="https://img.shields.io/badge/-Việt Quang Đinh-0077B5?logo=linkedin&logoColor=white" /></a>
     <a href="https://www.facebook.com/helloitsurdvq" target="blank"><img align="center" src="https://img.shields.io/badge/-Đinh Việt Quang-4267b2?logo=facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/chilling.dvq/" target="blank"><img align="center" src="https://img.shields.io/badge/-chilling.dvq-F67A00?logo=instagram&logoColor=white" /></a>
 </p>
